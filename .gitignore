@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.h5
+__pycache__/
+.conda/
+img_align_celeba/
+celeba_raw/
+*.zip
+*.parquet
